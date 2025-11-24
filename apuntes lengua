@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apuntes completos Lengua y Literatura</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; background: #fdfdfb; color: #333; }
+        h1, h2, h3 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 8px; margin-top: 50px; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; }
+        th, td { border: 1px solid #95a5a6; padding: 10px; text-align: left; vertical-align: top; }
+        th { background-color: #3498db; color: white; }
+        ul, ol { margin: 15px 0; padding-left: 30px; }
+        .resaltar { background-color: #fffacd; padding: 2px 5px; }
+        .nota { font-size: 0.9em; color: #7f8c8d; }
+        .autor { text-align: right; font-style: italic; margin-top: 60px; }
+    </style>
+</head>
+<body>
+
+<h1>Apuntes completos de Lengua y Literatura Castellana</h1>
+
+<!-- ======================================================= -->
+<!-- EL SINTAGMA VERBAL Y LAS PERÍFRASIS VERBALES            -->
+<!-- ======================================================= -->
+
+<h2>El sintagma verbal y las perífrasis verbales</h2>
+
+<p>El verbo funciona como <strong>núcleo del sintagma verbal (SV)</strong>. Generalmente dentro del SV aparecen otros grupos de palabras que acompañan al núcleo.</p>
+<p><strong>Estructura:</strong> SV → Núcleo + (CD, CI…)</p>
+
+<h3>Las formas verbales pueden ser:</h3>
+<ul>
+    <li><strong>Formas personales</strong> (proporcionan información de persona y número: cantarán, he cantado…)</li>
+    <li><strong>Formas no personales</strong> (infinitivo, gerundio y participio)</li>
+    <li><strong>Perífrasis verbales</strong> (dos verbos diferentes que expresan matices: obligación, posibilidad, continuidad…)</li>
+</ul>
+
+<h3>Estructura de las perífrasis verbales</h3>
+<p><strong>Verbo auxiliar + conector + verbo auxiliado</strong><br>
+Ejemplo: <em>Voy a tocar</em> en el festival</p>
+
+<ul>
+    <li><strong>Verbo auxiliar:</strong> lleva la flexión (persona, número, tiempo, modo, aspecto). Carece de significado léxico pleno.</li>
+    <li><strong>Verbo auxiliado:</strong> siempre en forma no personal; aporta el significado léxico principal.</li>
+    <li><strong>Conector:</strong> preposición o conjunción (a, de, que…). En algunas perífrasis no hay conector.</li>
+</ul>
+
+<h3>Cómo identificar una perífrasis verbal</h3>
+
+<h4>Con verbo auxiliado en infinitivo</h4>
+<ul>
+    <li>Si se puede cambiar por una forma nominal → <strong>NO es perífrasis</strong> (Deseo ganar → deseo eso)</li>
+    <li>No se puede cambiar → <strong>SÍ es perífrasis</strong> (Debemos irnos → *debemos eso)</li>
+</ul>
+
+<h4>Con verbo auxiliado en gerundio</h4>
+<ul>
+    <li>Si se puede cambiar por locución adverbial → <strong>NO es perífrasis</strong> (Juan salió gritando → Juan salió a gritos)</li>
+    <li>No se puede cambiar → <strong>SÍ es perífrasis</strong> (Juan siguió insistiendo)</li>
+</ul>
+
+<h4>Con verbo auxiliado en participio</h4>
+<ul>
+    <li>Si responde a «¿cómo?» → <strong>NO es perífrasis</strong> (Lucía compró roto el abrigo → ¿cómo compró el abrigo? Roto)</li>
+    <li>No responde a «¿cómo?» → <strong>SÍ es perífrasis</strong> (Lleva leído todo el temario)</li>
+</ul>
+
+<h3>Clases de perífrasis verbales</h3>
+
+<h4>a) Perífrasis aspectuales</h4>
+<table>
+    <tr>
+        <th>INGRESIVAS<br>(inicio inminente)</th>
+        <th>INCOATIVAS<br>(inicio)</th>
+        <th>DURATIVAS<br>(desarrollo)</th>
+        <th>TERMINATIVAS<br>(final)</th>
+        <th>RESULTATIVAS</th>
+        <th>HABITUALES</th>
+        <th>REITERATIVAS</th>
+    </tr>
+    <tr>
+        <td>ir a + inf.<br>estar a punto de + inf.<br>estar para + inf.</td>
+        <td>comenzar a + inf.<br>empezar a + inf.<br>echarse a + inf.<br>romper a + inf.</td>
+        <td>andar + ger.<br>seguir + ger.<br>continuar + ger.<br>estar + ger.<br>ir + ger.<br>venir + ger.<br>llevar + ger.</td>
+        <td>acabar de + inf.<br>dejar de + inf.<br>terminar de + inf.<br>cesar de + inf.<br>concluir de + inf.</td>
+        <td>llevar + part.<br>tener + part.<br>quedar + part.</td>
+        <td>soler + inf.<br>acostumbrar a + inf.</td>
+        <td>volver a + inf.</td>
+    </tr>
+</table>
+
+<h4>b) Perífrasis modales</h4>
+<table>
+    <tr>
+        <th>OBLIGACIÓN / NECESIDAD</th>
+        <th>PROBABILIDAD / POSIBILIDAD / SUPOSICIÓN</th>
+        <th>CAPACIDAD O AUTORIZACIÓN</th>
+        <th>APROXIMACIÓN / SUPOSICIÓN</th>
+        <th>INTENCIÓN</th>
+    </tr>
+    <tr>
+        <td>deber + inf.<br>haber de + inf.<br>tener que + inf.<br>hay que + inf.</td>
+        <td>poder + inf.<br>deber de + inf.<br>puede que + subj.</td>
+        <td>poder + inf.</td>
+        <td>venir a + inf.<br>deber de + inf.</td>
+        <td>haber de + inf.<br>ir a + inf.</td>
+    </tr>
+</table>
+
+<hr>
+
+<!-- ======================================================= -->
+<!-- UNIDAD 2 – EL TEXTO Y SUS PROPIEDADES                   -->
+<!-- ======================================================= -->
+
+<h2>Unidad 2. El texto y sus propiedades</h2>
+
+<h3>El enunciado y el texto</h3>
+<ul>
+    <li><strong>Enunciado:</strong> unidad mínima de comunicación que transmite un mensaje inteligible en un contexto físico o virtual determinado.</li>
+    <li><strong>Texto:</strong> unidad comunicativa formada por un enunciado o conjunto de enunciados que transmiten un mensaje con sentido completo.</li>
+</ul>
+
+<h3>Propiedades textuales</h3>
+<ul>
+    <li><strong>Coherencia</strong> (pragmática e interna)</li>
+    <li><strong>Cohesión</strong></li>
+</ul>
+
+<h3>La coherencia</h3>
+<ul>
+    <li><strong>Coherencia pragmática:</strong> adecuación al contexto y a la finalidad comunicativa.</li>
+    <li><strong>Coherencia interna:</strong> relación y unión entre las distintas partes del texto. Depende del tema y de las isotopías.</li>
+</ul>
+
+<h4>El tema</h4>
+<p>Idea central en torno a la cual gira un texto. Debe expresarse con enunciados breves y claros. Evitar formulaciones excesivamente vagas.</p>
+
+<h4>Las isotopías</h4>
+<p>Existencia de un rasgo semántico que se repite reiteradamente en el conjunto de palabras que conforman un texto.</p>
+<p><strong>Ejemplos:</strong></p>
+<ul>
+    <li>Amor y erotismo: amantes, flores, manzanas, rosas, amor, licor sagrado, dulce néctar, boca…</li>
+    <li>Sufrimiento: males, desgracias, temores, obsesiones, trágico…</li>
+</ul>
+
+<h3>La cohesión</h3>
+<p>Mecanismos lingüísticos que enlazan oraciones y párrafos.</p>
+
+<h4>Principales mecanismos de cohesión</h4>
+<ul>
+    <li><strong>Recurrencia:</strong> repetición de palabras o del mismo lexema.</li>
+    <li><strong>Sustitución:</strong>
+        <ul>
+            <li>Por sinónimos</li>
+            <li>Por hiperónimos</li>
+            <li>Por proformas léxicas (cosa, hecho, hacer, persona…)</li>
+            <li>Por expresiones equivalentes (conocimiento del mundo compartido)</li>
+            <li><strong>Anáfora</strong> y <strong>catáfora</strong></li>
+        </ul>
+    </li>
+    <li><strong>Elipsis:</strong> omisión de elementos ya mencionados.</li>
+    <li><strong>Marcadores discursivos</strong></li>
+</ul>
+
+<hr>
+
+<!-- ======================================================= -->
+<!-- UNIDAD 13 – LA PROSA Y EL TEATRO EN LA EDAD MEDIA       -->
+<!-- ======================================================= -->
+
+<h2>Unidad 13. La prosa y el teatro en la Edad Media. La Celestina</h2>
+
+<h3>Los orígenes de la prosa castellana</h3>
+<ul>
+    <li>Primeras manifestaciones en prosa romance: textos jurídicos e históricos (finales s. XI – principios s. XIII).</li>
+    <li>Escuela de Traductores de Toledo.</li>
+</ul>
+
+<h3>La obra en prosa de Alfonso X el Sabio (1252-1284)</h3>
+<ul>
+    <li>Obras jurídicas: <em>Sete Partidas</em></li>
+    <li>Obras históricas: <em>General Estoria</em>, <em>Estoria de España</em></li>
+    <li>Importancia: unificación del castellano escrito.</li>
+</ul>
+
+<h3>Don Juan Manuel y <em>El conde Lucanor</em> (1335)</h3>
+<ul>
+    <li>Libro I: 51 apólogos enmarcados (marco narrativo: Conde Lucanor y Patronio)</li>
+    <li>Libros II-IV: sentencias morales</li>
+    <li>Libro V: tratado de doctrina cristiana</li>
+    <li>Finalidad didáctica y moralizante</li>
+</ul>
+
+<h3>La novela de caballerías</h3>
+<ul>
+    <li><em>Amadís de Gaula</em> (s. XV, versión de Garci Rodríguez de Montalvo)</li>
+    <li><em>Libro del caballero Zífar</em></li>
+    <li>Rasgos: tiempo legendario, geografía exótica o imaginaria, aventuras fabulosas</li>
+</ul>
+
+<h3>La novela sentimental (siglo XV)</h3>
+<ul>
+    <li>Historia de amor no correspondido con final desgraciado</li>
+    <li>Psicología del amor cortesano</li>
+    <li>Obras principales:
+        <ul>
+            <li><em>Siervo libre de amor</em> – Juan Rodríguez del Padrón</li>
+            <li><em>Grisel y Mirabella</em> – Juan de Flores</li>
+            <li><em>Cárcel de amor</em> – Diego de San Pedro</li>
+        </ul>
+    </li>
+</ul>
+
+<hr>
+
+<p class="autor">Apuntes completos elaborados a partir de los documentos originales – Eva López Santay</p>
+
+</body>
+</html>
